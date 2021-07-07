@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1625665493 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn_validaciones.h"
+	"parser.h"
+	"Pais.h"
+
+1625661229 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\linkedlist.h
+
+1625329875 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\utn_validaciones.h
+
+1625620941 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\parser.h
+
+1625662855 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\pais.h
+	"LinkedList.h"
+
+1625665539 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625665877 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn_validaciones.h"
+
+1625658802 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\menu.h
+
+1625665928 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"Pais.h"
+
+1625335681 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_validaciones.h"
+
+1625666309 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+	"LinkedList.h"
+	"utn_validaciones.h"
+
+1625666069 source:c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Pais.h"
+	"menu.h"
+
+1625664098 c:\users\feder\desktop\parcial 2\dacal.federico.splab1\parcial_vacunas\controller.h
+
